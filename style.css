@@ -1,0 +1,41 @@
+h1{font-family:"Oswald", serif; font-size:40px; font-weight:700;}
+body{font-family:"PT Sans Narrow"; margin:0; padding:0;}
+img{white-space: nowrap;}
+h2,h3,h4{font-family:"Oswald",serif; font-weight:300;}
+input, label{font-family:"PT Sans Narrow";}
+#top{text-align:center; border-bottom:1px solid #CDB785;}
+#content{ width:75%; margin:0 12.5%; line-height:1.6em; border-bottom:1px solid #CDB785;}
+#top h1{letter-spacing:3px;}
+#top p{font-style:italic; color:#BF9941;font-size:13px;}
+#content p{ color:#3D3D3D;}
+.article_image{border:3px solid #FFECC0;width:100%;}
+#body{padding:0 5%;}
+.details{font-style:italic; color:#747474; font-size:13px; margin-top:-20px;}
+#menu{text-align:center; margin-top:-10px; margin-bottom:40px;}
+#menu ul{list-style-type: none; }
+#menu ul li{display:inline; margin:0 2%;}
+#menu a{padding:1%;}
+a{color:#CDB785; text-decoration:none; padding:0.5%;}
+a:hover{color:white; background:#CDB785;}
+#float{ background:#FFE4A6; float:right; right:0; top:0; position:fixed; padding:10px; text-align:center; -webkit-border-radius: 0px 0px 0px 10px;
+        border-radius: 0px 0px 0px 10px; }
+#float2{ background:#FFE4A6; float:right; right:0; top:0; position:fixed; padding:5px; text-align:center; -webkit-border-radius: 0px 0px 0px 10px;
+        border-radius: 0px 0px 0px 10px; }
+#float label{font-size:15px; color:#3D3D3D;}
+#float input{font-size:13px; padding:3px; }
+        #footer{font-size:13px; text-align:center; margin:2%;}
+        #dialog{font-size:17px; font-family:"PT Sans Narrow";}
+        #dialog title{font-family:"PT Sans Narrow";}
+        #inscription{font-size:17px; font-family:"PT Sans Narrow"; text-align:center; padding:50px;}
+        #inscription title{font-family:"PT Sans Narrow";}
+        #inscription label{display: block; width: 150px; float: left; color:#3D3D3D; font-size:15px;}
+        #inscription input[type="text"],#publication input[type="password"]{border:3px solid #D0D0D0; height:20px; padding:5px; outline: none;}
+        #publication{font-size:17px; font-family:"PT Sans Narrow"; text-align:center; padding:50px;}
+        #publication title{font-family:"PT Sans Narrow";}
+        #publication label{display: block; width: 150px; float: left; color:#3D3D3D; font-size:15px;}
+        #publication input[type="text"],#publication input[type="password"]{border:3px solid #D0D0D0; height:20px; padding:5px; outline: none;}
+        #publication textarea{border:3px solid #D0D0D0; height:20px; padding:5px; outline: none;}
+
+
+
+
